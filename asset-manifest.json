@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "//francisjhacke.github.io/static/css/main.d1b05096.chunk.css",
+    "main.js": "//francisjhacke.github.io/static/js/main.bc5e64ca.chunk.js",
+    "main.js.map": "//francisjhacke.github.io/static/js/main.bc5e64ca.chunk.js.map",
+    "runtime-main.js": "//francisjhacke.github.io/static/js/runtime-main.6464c0c4.js",
+    "runtime-main.js.map": "//francisjhacke.github.io/static/js/runtime-main.6464c0c4.js.map",
+    "static/js/2.459fd2c5.chunk.js": "//francisjhacke.github.io/static/js/2.459fd2c5.chunk.js",
+    "static/js/2.459fd2c5.chunk.js.map": "//francisjhacke.github.io/static/js/2.459fd2c5.chunk.js.map",
+    "index.html": "//francisjhacke.github.io/index.html",
+    "precache-manifest.ad674ce7b3f687184c62875c27d84411.js": "//francisjhacke.github.io/precache-manifest.ad674ce7b3f687184c62875c27d84411.js",
+    "service-worker.js": "//francisjhacke.github.io/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "//francisjhacke.github.io/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.459fd2c5.chunk.js.LICENSE.txt": "//francisjhacke.github.io/static/js/2.459fd2c5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "//francisjhacke.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6464c0c4.js",
+    "static/js/2.459fd2c5.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.bc5e64ca.chunk.js"
+  ]
+}
